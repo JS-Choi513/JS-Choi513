@@ -5,7 +5,7 @@
      <img src="https://github-readme-stats.vercel.app/api?username=JS-Choi513&show_icons-true&theme=tokyonight&hide_border=false" />
    </a>
 </div>
-------  
+------<br/>  
 ### ⚙️ Friendly languages ⚙️
 <div align="left">
    <img src="https://img.shields.io/badge/-c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
@@ -14,7 +14,7 @@
    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
    <img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=java&logoColor=white"/>
 </div>
-------  
+------<br/>
 ### 🧰 Friendly tools 🧰
 <div align="left">
    <a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>   
@@ -24,7 +24,7 @@
    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
    <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
 </div>
-------  
+------<br/>
 ### 💻 Friendly environments 💻
 <div align="left">
    <a href="https://mirror.kakao.com/ubuntu-releases/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>   
@@ -35,14 +35,14 @@
    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
 </div>
-------  
+------<br/>
 ### ✏️ Currently studying ✏️
 <div align="left">
    - Linux Kernel<br/>
    - Storage system<br/> 
    - Machine learning data pipeline<br/>
 </div>
-------  
+------<br/>
 ### ✨ Currently interested in.. ✨
 <div align="left">
    - CUDA<br/>
