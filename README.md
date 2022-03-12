@@ -1,6 +1,7 @@
 
 <img src=meme.gif/>
 
+[![Jinseo's github stats](https://github-readme-stats.vercel.app/api?username=JS-Choi513)](https://github.com/js-choi513/github-readme-stats)
 
 ### ⚙️ Friendly languages ⚙️
 <div align="left">
