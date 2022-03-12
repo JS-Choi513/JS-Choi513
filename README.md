@@ -1,11 +1,7 @@
 ### Hi there 👋
+
+
 <iframe src="https://giphy.com/embed/wvQIqJyNBOCjK" width="480" height="387" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glee-image-wiki-wvQIqJyNBOCjK">via GIPHY</a></p>
-<!--
-**JS-Choi513/JS-Choi513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
