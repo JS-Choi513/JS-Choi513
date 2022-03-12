@@ -22,12 +22,12 @@
    <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
 </div>
 
-### 💻 Friendly environment 💻
+### 💻 Friendly environments 💻
 <div align="left">
    <a href="https://mirror.kakao.com/ubuntu-releases/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>   
    <img src="https://img.shields.io/badge/Mac OS-000000?style=flat-square&logo=macos&logoColor=white"/>
    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/>
    <img src="https://img.shields.io/badge/Visual studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
    <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 </div>
