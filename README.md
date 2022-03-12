@@ -35,13 +35,13 @@
 
 ### ✏️ Currently studying ✏️
 <div align="left">
-   - Linux Kernel. 
-   - Storage system. 
-   - Machine learning data pipeline.
+   - Linux Kernel<br/>
+   - Storage system<br/> 
+   - Machine learning data pipeline<br/>
 </div>
 
-###✨ Currently interested in.. ✨
+### ✨ Currently interested in.. ✨
 <div align="left">
-   - CUDA. 
-   - memory allocator. 
+   - CUDA<br/>
+   - memory allocator<br/> 
 </div>
