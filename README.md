@@ -30,4 +30,5 @@
    <img src="https://img.shields.io/badge/Visual studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
    <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/>
    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
 </div>
