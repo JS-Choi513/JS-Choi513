@@ -12,10 +12,22 @@
 </div>
 
 
-### 🛠 Tech stack 🛠
+### 🧰 Friendly tools 🧰
 <div align="left">
    <a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>   
    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+</div>
+
+### 💻 Friendly environment 💻
+<div align="left">
+   <a href="https://mirror.kakao.com/ubuntu-releases/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>   
+   <img src="https://img.shields.io/badge/Mac OS-000000?style=flat-square&logo=macos&logoColor=white"/>
+   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Visual studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/>
    <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
 </div>
