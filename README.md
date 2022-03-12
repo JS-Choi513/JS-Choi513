@@ -38,8 +38,9 @@
    - Linux Kernel. 
    - Storage system. 
    - Machine learning data pipeline.
-</div>   
-### ✨ Currently interested in.. ✨
+</div>
+
+###✨ Currently interested in.. ✨
 <div align="left">
    - CUDA. 
    - memory allocator. 
