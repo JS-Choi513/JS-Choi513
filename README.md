@@ -1,7 +1,9 @@
 
-<img src=meme.gif/>
+<div align="left">
+   <img src=meme.gif/>
+   ![Jinsoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JS-Choi513&show_icons=true&theme=tokyonight&hide_border=false)   
+</div>
 
-![Jinsoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JS-Choi513&show_icons=true&theme=tokyonight&hide_border=false)
 
 ### ⚙️ Friendly languages ⚙️
 <div align="left">
