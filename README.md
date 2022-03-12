@@ -2,10 +2,9 @@
 <div>
    <img align="left" src=meme.gif/>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+     <img src="https://github-readme-stats.vercel.app/api?username=JS-Choi513&show_icons-true&theme=tokyonight&hide_border=false" />
    </a>
 </div>
-
 
 ### ⚙️ Friendly languages ⚙️
 <div align="left">
