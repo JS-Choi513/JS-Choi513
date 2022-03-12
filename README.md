@@ -1,7 +1,7 @@
 
 <div align="left">
    <img src=meme.gif/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /></a>
+   <a><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /></a>
 </div>
 
 
