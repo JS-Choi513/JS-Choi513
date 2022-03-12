@@ -32,3 +32,9 @@
    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
 </div>
+
+### ✏️ Currently studying ✏️
+<div align="left">
+   - Linux Kernel
+   - Deep learning pipeline
+</div>
