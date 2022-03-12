@@ -5,6 +5,7 @@
      <img src="https://github-readme-stats.vercel.app/api?username=JS-Choi513&show_icons-true&theme=tokyonight&hide_border=false" />
    </a>
 </div>
+
 ------<br/>  
 
 ### ⚙️ Friendly languages ⚙️
@@ -15,6 +16,7 @@
    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
    <img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=java&logoColor=white"/>
 </div>
+
 ------<br/>
 
 ### 🧰 Friendly tools 🧰
@@ -26,6 +28,7 @@
    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
    <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
 </div>
+
 ------<br/>
 
 ### 💻 Friendly environments 💻
@@ -38,6 +41,7 @@
    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
 </div>
+
 ------<br/>
 
 ### ✏️ Currently studying ✏️
@@ -46,7 +50,9 @@
    - Storage system<br/> 
    - Machine learning data pipeline<br/>
 </div>
+
 ------<br/>
+
 ### ✨ Currently interested in.. ✨
 <div align="left">
    - CUDA<br/>
