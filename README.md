@@ -2,7 +2,7 @@
 <img src=meme.gif/>
 
 
-###⚙️ Language ⚙️
+### ⚙️ Language ⚙️
 <div align="left">
    
 
@@ -11,7 +11,7 @@
 </div>
 
 
-###🛠 Tech stack 🛠
+### 🛠 Tech stack 🛠
 <div align="left">
    <a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>   
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>   
