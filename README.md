@@ -5,6 +5,10 @@
      <img src="https://github-readme-stats.vercel.app/api?username=JS-Choi513&show_icons-true&theme=tokyonight&hide_border=false" />
    </a>
 </div>  
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### ⚙️ Friendly languages ⚙️
 ------
