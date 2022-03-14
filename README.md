@@ -29,6 +29,7 @@
    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
    <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
    <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+   <img src="https://img.shields.io/badge/LinuxContainers-333333?style=flat-square&logo=linuxcontainers&logoColor=white"/>
    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
    <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
 </div>
@@ -63,5 +64,5 @@
 ------
 <div align="left">
    - CUDA<br/>
-   - memory allocator<br/> 
+   - Memory allocator<br/> 
 </div>
