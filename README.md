@@ -22,6 +22,7 @@
 </div>
 <br/>
 <br/>
+
 ------
 
 ### 🧰 Friendly tools 🧰
@@ -36,6 +37,7 @@
 </div>
 <br/>
 <br/>
+
 ------
 
 ### 💻 Friendly environments 💻
@@ -50,6 +52,7 @@
 </div>
 <br/>
 <br/>
+
 ------
 
 ### ✏️ Currently studying ✏️
@@ -60,6 +63,7 @@
 </div>
 <br/>
 <br/>
+
 ------
 
 ### ✨ Currently interested in.. ✨
