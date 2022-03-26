@@ -7,7 +7,9 @@
 </div>  
 <br/>
 <div>
+   <a>
      <img src=profile-3d-contrib/profile-green-animate.svg)/>
+   </a>   
 </div>
 <br/>
 <br/>
