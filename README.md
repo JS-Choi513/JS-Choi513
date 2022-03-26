@@ -4,9 +4,11 @@
    <a href="https://github.com/anuraghazra/github-readme-stats">
      <img src="https://github-readme-stats.vercel.app/api?username=JS-Choi513&show_icons-true&theme=tokyonight&hide_border=false" />
    </a>
-   <img src = 
 </div>  
 <br/>
+<div>
+     <img src=./profile-3d-contrib/profile-green-animate.svg)/>
+</div>
 <br/>
 <br/>
 <br/>
