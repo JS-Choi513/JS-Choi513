@@ -8,7 +8,7 @@
 <br/>
 <div>
    <a>
-     <img src=profile-3d-contrib/profile-night-green-animate.svg/>
+     <img src=profile-3d-contrib/profile-night-green.svg/>
    </a>   
 </div>
 <br/>
