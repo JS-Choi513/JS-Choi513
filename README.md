@@ -11,6 +11,7 @@
 <br/>
 
 ------
+
 ### ⚙️ Friendly languages ⚙️
 <div align="left">
    <img src="https://img.shields.io/badge/-c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
@@ -22,6 +23,7 @@
 <br/>
 <br/>
 ------
+
 ### 🧰 Friendly tools 🧰
 <div align="left">
    <a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>   
@@ -35,6 +37,7 @@
 <br/>
 <br/>
 ------
+
 ### 💻 Friendly environments 💻
 <div align="left">
    <a href="https://mirror.kakao.com/ubuntu-releases/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>   
@@ -48,6 +51,7 @@
 <br/>
 <br/>
 ------
+
 ### ✏️ Currently studying ✏️
 <div align="left">
    - Linux Kernel<br/>
@@ -57,6 +61,7 @@
 <br/>
 <br/>
 ------
+
 ### ✨ Currently interested in.. ✨
 <div align="left">
    - Memory allocator<br/> 
