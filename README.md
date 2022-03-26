@@ -10,8 +10,8 @@
 <br/>
 <br/>
 
-### ⚙️ Friendly languages ⚙️
 ------
+### ⚙️ Friendly languages ⚙️
 <div align="left">
    <img src="https://img.shields.io/badge/-c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
    <img src="https://img.shields.io/badge/-c-00599C?style=flat-square&logo=c&logoColor=white"/> 
@@ -21,9 +21,8 @@
 </div>
 <br/>
 <br/>
-
-### 🧰 Friendly tools 🧰
 ------
+### 🧰 Friendly tools 🧰
 <div align="left">
    <a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>   
    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -35,9 +34,8 @@
 </div>
 <br/>
 <br/>
-
-### 💻 Friendly environments 💻
 ------
+### 💻 Friendly environments 💻
 <div align="left">
    <a href="https://mirror.kakao.com/ubuntu-releases/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>   
    <img src="https://img.shields.io/badge/Mac OS-000000?style=flat-square&logo=macos&logoColor=white"/>
@@ -49,9 +47,8 @@
 </div>
 <br/>
 <br/>
-
-### ✏️ Currently studying ✏️
 ------
+### ✏️ Currently studying ✏️
 <div align="left">
    - Linux Kernel<br/>
    - Storage system<br/> 
@@ -59,10 +56,8 @@
 </div>
 <br/>
 <br/>
-
-### ✨ Currently interested in.. ✨
 ------
+### ✨ Currently interested in.. ✨
 <div align="left">
-   - CUDA<br/>
    - Memory allocator<br/> 
 </div>
