@@ -19,13 +19,14 @@
 <br/>
 <br/>
 <br/>
+
+------
+<!--      
 <div>
    <a>
      <img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JS-Choi513&theme=2077/>
    </a>   
 </div>
-------
-<!--      
 # Contact      
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjwjs513@gmail.com)](mailto:tjwjs513@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/changsoo-kwak-b07703194/)](https://www.linkedin.com/in/changsoo-kwak-b07703194/)
