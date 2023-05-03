@@ -19,10 +19,14 @@
 <br/>
 <br/>
 <br/>
-<a href="https://github.com/js-choi513/github-profile-summary-cards/stargazers">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/js-choi513/github-profile-summary-cards?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-
+<div>
+   <a>
+     <img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JS-Choi513&theme=2077/>
+   </a>   
+</div>
 ------
+
+
 
 ### ⚙️ Friendly languages ⚙️
 <div align="left">
