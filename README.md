@@ -19,6 +19,8 @@
 <br/>
 <br/>
 <br/>
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={js-choi513}&theme={2077}
+
 
 ------
 
