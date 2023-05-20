@@ -128,7 +128,7 @@ Publications {data-icon=book}
 CV %<>% print_section('academic_articles')
 ```
 
-Patents {data-icon=book}
+Patents {data-icon=file-powerpoint-o}
 --------------------------------------------------------------------------------
 
 ```{r}
