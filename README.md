@@ -1,5 +1,5 @@
 <div align="left">
-   <a href="https://js-choi513.github.io/JS.html" target="_blank"><img src="https://img.shields.io/badge/Check CV-3776AB?style=flat-square&logo=semanticscholar&logoColor=white"/></a>
+   <a href="https://js-choi513.github.io/JS.html" target="_blank"><img src="https://img.shields.io/badge/Check CV-3776AB?style=for-the-bagdge&logo=semanticscholar&logoColor=white"/></a>
 </div>
 <br/>
 <div>
