@@ -128,7 +128,12 @@ Publications {data-icon=book}
 CV %<>% print_section('academic_articles')
 ```
 
+Patents {data-icon=book}
+--------------------------------------------------------------------------------
 
+```{r}
+CV %<>% print_section('patents')
+```
 
 ```{r}
 CV %<>% print_links()
