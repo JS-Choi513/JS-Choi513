@@ -4,10 +4,11 @@
 </div>
 <br/>
 <div>
-      <img align="left" src="https://user-images.githubusercontent.com/32115744/231467781-39218bfb-bfbe-43a2-96d3-e247304f5ce1.gif"/>
+   <img align="left" src="https://user-images.githubusercontent.com/32115744/231467781-39218bfb-bfbe-43a2-96d3-e247304f5ce1.gif"/>
+   <br/>
+   <br/>
 </div>  
-<br/>
-<br/>
+
 <div>
    <!--<img align="left" src=meme.gif/>-->
    <a  href="https://github.com/anuraghazra/github-readme-stats">
