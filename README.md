@@ -1,5 +1,4 @@
-### Check my CV!
-<div align="left">
+<a><code>Check my CV!</code></a><div align="left">
    <a href="https://js-choi513.github.io/JS.html" target="_blank"><img src="https://img.shields.io/badge/CV-3776AB?style=flat-square&logo=semanticscholar&logoColor=white"/></a>
 </div>
 <br/>
