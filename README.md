@@ -1,4 +1,7 @@
-
+<div align="left">
+   <a href="https://js-choi513.github.io/JS.html" target="_blank"><img src="https://img.shields.io/badge/Check CV-3776AB?style=flat-square&logo=semanticscholar&logoColor=white"/></a>
+</div>
+<br/>
 <div>
       <img align="left" src="https://user-images.githubusercontent.com/32115744/231467781-39218bfb-bfbe-43a2-96d3-e247304f5ce1.gif"/>
       <br/>
