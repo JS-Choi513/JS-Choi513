@@ -1,8 +1,10 @@
-<a href="https://js-choi513.github.io/JS.html" target="_blank"><img src="https://img.shields.io/badge/CV-3776AB?style=flat-square&logo=semanticscholar&logoColor=white"/></a>
+<div align="center">
+   Check my
+   <a align="center" href="https://js-choi513.github.io/JS.html" target="_blank"><img align="center" src="https://img.shields.io/badge/C.V.-3776AB?style=flat-square&logo=semanticscholar&logoColor=white"/></a> !
 </div>
 <br/>
-<div>
-   <img align="left" src="https://github.com/JS-Choi513/JS-Choi513/assets/32115744/fe84d88e-ee3c-40ec-9465-d32fee99f37a.gif"/>
+<div align="center">
+   <img align="center" src="https://github.com/JS-Choi513/JS-Choi513/assets/32115744/fe84d88e-ee3c-40ec-9465-d32fee99f37a.gif"/>
    <br/>
    <br/>
 </div>  
