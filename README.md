@@ -1,6 +1,4 @@
 <div align="center">
-   <b>You can check my</b>
-   <a align="center" href="https://js-choi513.github.io/JS.html" target="_blank"><img align="center" src="https://img.shields.io/badge/C.V.-3776AB?style=flat-square&logo=semanticscholar&logoColor=white"/></a> 
 </div>
 <br/>
 <div align="center">
